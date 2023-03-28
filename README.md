@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Gangura in full GABRIEL ANGURA
-- 👀 I’m interested in Data Analysis, Machine learning, Artificial Intelligence and Full - Stack Software Development with a bias towards Data Science
-- 🌱 I’m currently learning Full Stack Software Development, and Machine Learning.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I am Passionate about Machine learning and Computer Vision
 - 📫 How to reach me ...gabrielangura@gmail.com, WhatsApp on +256753498517
 
 <!---
