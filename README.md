@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gangura in full GABRIEL ANGURA
-- 👀 I am Passionate about Machine learning and Computer Vision
+- 👀 A data Scientist, Machine learning and Computer Vision
 - 📫 How to reach me ...gabrielangura@gmail.com, WhatsApp on +256753498517
 
 <!---
